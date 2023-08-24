@@ -1,0 +1,10 @@
+div{
+    margin: 10px;
+    border: 10px solid pink;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    background-color: red;
+    margin-bottom: 20px;
+
+}
